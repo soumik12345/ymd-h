@@ -1,4 +1,7 @@
-### Hi there 👋
+
+![H. Yamada's github stats](https://github-readme-stats.vercel.app/api?username=ymd-h&show_icons=true)
+
+
 
 <!--
 **ymd-h/ymd-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
